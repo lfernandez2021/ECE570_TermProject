@@ -3,7 +3,7 @@ Repository containing the code used to replicate one significant paper related t
 
 ## Data Set 
 Download the dataset from:
-https://drive.google.com/drive/folders/1fdZAtbvksUGN5WoRJ4BCjyp8qOz_pPuN?usp=sharing
+https://drive.google.com/file/d/1mMqIZIP6hwjlIW3XjwKN3SGsk5fG7zTQ/view?usp=sharing
 
 Place the data in the directory:
 Data/
