@@ -12,4 +12,4 @@ Note: Dataset is ~2.7 GB total.
 
 ## Results
 To see the results obtained until 2026.04.22, refer to the  
-[Code Deliverable Term Project Results](Code_Deliverable_Term_Project_0422.ipynb.md)
+[Code Deliverable Term Project Results](Code_Deliverable_Term_Project_0422.ipynb)
